@@ -1,131 +1,130 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Ibrahim%20Elrouby&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20%7C%203D%20Artist%20%7C%20Claude%20Code%20Builder&descSize=18&descAlignY=55&animation=fadeIn" />
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Building+AI-Powered+Tools+%26+Agents;Crafting+3D+Worlds+%26+Digital+Experiences;Open+Source+Claude+Code+Plugin+Creator;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00d4ff,100:7c3aed&height=180&section=header&text=IBRAHIM%20ELROUBY&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%203D%20Artist%20%E2%80%A2%20Claude%20Code%20Builder&descSize=14&descAlignY=58&descColor=8b949e" width="100%" />
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/Ibrahim-3d?logo=github&style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=00d4ff)](https://github.com/Ibrahim-3d)
-[![GitHub stars](https://img.shields.io/github/stars/Ibrahim-3d?logo=github&style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=7c3aed)](https://github.com/Ibrahim-3d)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-3d&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Ibrahim-3d)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%E2%9A%A1+Building+AI+Agents+That+Actually+Ship;%F0%9F%8E%A8+Where+Code+Meets+3D+Art;%F0%9F%94%A7+Creator+of+Conductor+Orchestrator;%F0%9F%8C%8D+Open+Source+%7C+38%E2%AD%90+%26+Growing" alt="Typing SVG" /></a>
+
+<br/>
+
+[![Website](https://img.shields.io/badge/ibrahim3d.com-000?style=flat-square&logo=safari&logoColor=00d4ff)](https://ibrahim3d.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/github/followers/Ibrahim-3d?label=Follow&style=flat-square&logo=github&logoColor=fff&color=0d1117)](https://github.com/Ibrahim-3d)&nbsp;&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=Ibrahim-3d&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/Ibrahim-3d)
 
 </div>
 
----
+<br/>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+## About Me
 
-## `> whoami`
+```python
+class Ibrahim:
+    role      = "Full-Stack AI Engineer"
+    company   = "Independent Builder"
+    website   = "ibrahim3d.com"
 
-```js
-const ibrahim = {
-  title: "Full-Stack AI Engineer",
-  location: "Building the future, one agent at a time",
-  focus: ["AI Tools", "3D Art", "Claude Code Plugins"],
-  currentlyBuilding: "Conductor Orchestrator Superpowers",
-  funFact: "I make AI agents work together like an orchestra"
-};
+    languages = ["Python", "TypeScript", "JavaScript"]
+    ai_stack  = ["Claude Code", "Gemini", "OpenAI"]
+    creative  = ["Blender", "Three.js", "Generative Art"]
+
+    building  = "Multi-agent orchestration systems"
+    motto     = "Ship AI tools people actually use"
 ```
 
-- **AI Agent Architect** — I build multi-agent orchestration systems and Claude Code plugins that supercharge developer workflows
-- **3D Creative** — Blending code with 3D art, generative design, and visual storytelling
-- **Open Source Builder** — Creating tools the community actually uses
+> I architect **AI agent systems** and build **Claude Code plugins** used by developers worldwide.
+> My flagship project, **Conductor Orchestrator**, brings multi-agent parallel execution to Claude Code — earning **38 stars** and **10 forks** from the community.
+> When I'm not wiring up AI agents, I'm creating **3D art** and generative design tools in Blender.
 
-<br clear="right"/>
+<br/>
 
----
-
-## ⚡ Tech Stack
+## Tech Arsenal
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,js,react,nextjs,nodejs,blender,threejs&theme=dark" /></a>
 
-### AI & Tools
-![Claude](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=d4a574)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00d4ff)
-![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285f4)
+<br/><br/>
 
-### 3D & Creative
-![Blender](https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=f5792a)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
-
-### Web & Backend
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=flat-square&logo=anthropic&logoColor=d4a574)
+![Gemini](https://img.shields.io/badge/Gemini-191919?style=flat-square&logo=googlegemini&logoColor=4285f4)
+![OpenAI](https://img.shields.io/badge/OpenAI-191919?style=flat-square&logo=openai&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-191919?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-191919?style=flat-square&logo=docker&logoColor=2496ED)
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Flagship Projects
 
 <div align="center">
 
 <a href="https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=conductor-orchestrator-superpowers&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=conductor-orchestrator-superpowers&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&description_lines_count=2" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/Ibrahim-3d/nano-banana-claude-plugin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-banana-claude-plugin&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-banana-claude-plugin&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&description_lines_count=2" />
 </a>
-<a href="https://github.com/Ibrahim-3d/ProposalForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=ProposalForge&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ibrahim-3d/nano-blender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-blender&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-3d&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=1a1b27&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-3d&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<a href="https://github.com/Ibrahim-3d/ProposalForge">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=ProposalForge&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&description_lines_count=2" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Ibrahim-3d/nano-blender">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-blender&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&description_lines_count=2" />
+</a>
 
 </div>
 
----
+<br/>
 
-## 🏗️ What I Build
+## GitHub Stats
 
 <div align="center">
 
-| Area | What I Do |
-|:---:|:---|
-| 🤖 **AI Agents** | Multi-agent orchestration, Claude Code plugins, autonomous workflows |
-| 🎨 **3D & Design** | Blender tools, generative art, creative coding, font creation |
-| 🛠️ **Developer Tools** | CLI plugins, skills systems, AI-powered code assistants |
-| 📦 **Products** | Brand generators, proposal tools, AI influencer platforms |
-| 📈 **Trading** | AI-powered crypto trading bots and prediction systems |
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-3d&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=21262d&stroke=21262d&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=484f58" />
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Graph
+<div align="center">
+
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-3d&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=c9d1d9&langs_count=6&hide=html,css" />
+
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ibrahim-3d&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-3d&bg_color=0d1117&color=8b949e&line=00d4ff&point=7c3aed&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibrahim-3d/Ibrahim-3d/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibrahim-3d/Ibrahim-3d/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ibrahim-3d/Ibrahim-3d/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ibrahim-3d/Ibrahim-3d/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -134,20 +133,10 @@ const ibrahim = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-3d&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area_color=00d4ff&area=true&hide_border=true" />
+<sub>Building tools the community uses. Let's connect.</sub>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-*Building AI tools that actually ship. If you're into Claude Code, AI agents, or 3D creative coding — let's build something.*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=100&section=footer" width="100%" />
 
 </div>
