@@ -43,24 +43,17 @@ const ibrahim = {
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,js,react,nextjs,nodejs,blender,threejs&theme=dark&perline=8" /></a>
 
-### AI & Tools
-![Claude](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=d4a574)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00d4ff)
-![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285f4)
+<br/>
 
-### 3D & Creative
-![Blender](https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=f5792a)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode&theme=dark&perline=8" /></a>
 
-### Web & Backend
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
+<br/>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=d4a574)
+![OpenAI](https://img.shields.io/badge/OpenAI-191919?style=for-the-badge&logo=openai&logoColor=00d4ff)
+![Gemini](https://img.shields.io/badge/Gemini-191919?style=for-the-badge&logo=googlegemini&logoColor=4285f4)
 
 </div>
 
@@ -70,18 +63,12 @@ const ibrahim = {
 
 <div align="center">
 
-<a href="https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=conductor-orchestrator-superpowers&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ibrahim-3d/nano-banana-claude-plugin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-banana-claude-plugin&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ibrahim-3d/ProposalForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=ProposalForge&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ibrahim-3d/nano-blender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-blender&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
+| | Project | Description |
+|:---:|:---|:---|
+| ⭐ | **[Conductor Orchestrator Superpowers](https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers)** | Multi-agent orchestration for Claude Code — parallel execution, quality gates, Board of Directors `⭐ 38` |
+| 🍌 | **[Nano Banana Claude Plugin](https://github.com/Ibrahim-3d/nano-banana-claude-plugin)** | AI image generation plugin for Claude Code — 13 modes including text-to-image, editing, style transfer |
+| 📄 | **[ProposalForge](https://github.com/Ibrahim-3d/ProposalForge)** | AI-powered proposal & document generator — chat to create, live preview, export to PDF/DOCX/PPTX |
+| 🎲 | **[Nano Blender](https://github.com/Ibrahim-3d/nano-blender)** | Python tools for Blender — bridging 3D creation with code |
 
 </div>
 
@@ -91,12 +78,13 @@ const ibrahim = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-3d&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=1a1b27&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=1a1b27&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahim-3d&theme=github_dark" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-3d&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim-3d&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim-3d&theme=github_dark" />
 
 </div>
 
