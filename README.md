@@ -114,13 +114,17 @@ const ibrahim = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-3d&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=1a1b27&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ibrahim-3d&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
-<br/>
+<br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-3d&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&text_color=c9d1d9&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim-3d&theme=github_dark" />
+<img width="55%" src="https://streak-stats.demolab.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=1a1b27&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/Ibrahim-3d?style=for-the-badge&label=Followers&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Ibrahim-3d?affiliations=OWNER&style=for-the-badge&label=Total%20Stars&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIbrahim-3d&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white)
 
 </div>
 
