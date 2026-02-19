@@ -43,19 +43,48 @@ const ibrahim = {
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=conductor-orchestrator-superpowers&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&show_owner=false" />
+  <img width="100%" src="assets/card-conductor.svg" alt="Conductor Orchestrator Superpowers"/>
 </a>
+<p>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/conductor-orchestrator-superpowers?style=flat-square&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white&label=stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/conductor-orchestrator-superpowers?style=flat-square&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white&label=forks" alt="Forks"/>
+</p>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/Ibrahim-3d/nano-banana-claude-plugin">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-banana-claude-plugin&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&show_owner=false" />
+  <img width="100%" src="assets/card-banana.svg" alt="Nano Banana Claude Plugin"/>
 </a>
-
+<p>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/nano-banana-claude-plugin?style=flat-square&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white&label=stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/nano-banana-claude-plugin?style=flat-square&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white&label=forks" alt="Forks"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/Ibrahim-3d/ProposalForge">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=ProposalForge&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&show_owner=false" />
+  <img width="100%" src="assets/card-proposalforge.svg" alt="ProposalForge"/>
 </a>
+<p>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/ProposalForge?style=flat-square&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white&label=stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/ProposalForge?style=flat-square&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white&label=forks" alt="Forks"/>
+</p>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/Ibrahim-3d/nano-blender">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-blender&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&show_owner=false" />
+  <img width="100%" src="assets/card-blender.svg" alt="Nano Blender"/>
 </a>
+<p>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/nano-blender?style=flat-square&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white&label=stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/nano-blender?style=flat-square&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white&label=forks" alt="Forks"/>
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -108,20 +137,6 @@ const ibrahim = {
 | 🛠️ **Developer Tools** | CLI plugins, skills systems, AI-powered code assistants |
 | 📦 **Products** | Brand generators, proposal tools, AI influencer platforms |
 | 📈 **Trading** | AI-powered crypto trading bots and prediction systems |
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibrahim-3d/Ibrahim-3d/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibrahim-3d/Ibrahim-3d/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ibrahim-3d/Ibrahim-3d/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
