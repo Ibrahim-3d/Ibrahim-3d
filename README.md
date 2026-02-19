@@ -39,6 +39,28 @@ const ibrahim = {
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=conductor-orchestrator-superpowers&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&show_owner=false" />
+</a>
+<a href="https://github.com/Ibrahim-3d/nano-banana-claude-plugin">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-banana-claude-plugin&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&show_owner=false" />
+</a>
+
+<a href="https://github.com/Ibrahim-3d/ProposalForge">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=ProposalForge&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&show_owner=false" />
+</a>
+<a href="https://github.com/Ibrahim-3d/nano-blender">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-3d&repo=nano-blender&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&show_owner=false" />
+</a>
+
+</div>
+
+---
+
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -59,31 +81,16 @@ const ibrahim = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| | Project | Description |
-|:---:|:---|:---|
-| ⭐ | **[Conductor Orchestrator Superpowers](https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers)** | Multi-agent orchestration for Claude Code — parallel execution, quality gates, Board of Directors `⭐ 38` |
-| 🍌 | **[Nano Banana Claude Plugin](https://github.com/Ibrahim-3d/nano-banana-claude-plugin)** | AI image generation plugin for Claude Code — 13 modes including text-to-image, editing, style transfer |
-| 📄 | **[ProposalForge](https://github.com/Ibrahim-3d/ProposalForge)** | AI-powered proposal & document generator — chat to create, live preview, export to PDF/DOCX/PPTX |
-| 🎲 | **[Nano Blender](https://github.com/Ibrahim-3d/nano-blender)** | Python tools for Blender — bridging 3D creation with code |
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-3d&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=1a1b27&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahim-3d&theme=github_dark" />
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahim-3d&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-3d&theme=github_dark&bg_color=0d1117&border_color=1a1b27&title_color=00d4ff&text_color=c9d1d9&layout=compact&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahim-3d&theme=github_dark" />
 
 </div>
