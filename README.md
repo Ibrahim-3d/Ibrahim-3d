@@ -7,21 +7,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/Ibrahim-3d?logo=github&style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=00ff9c)](https://github.com/Ibrahim-3d)
 [![GitHub stars](https://img.shields.io/github/stars/Ibrahim-3d?logo=github&style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=16a34a)](https://github.com/Ibrahim-3d)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-3d&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS)](https://github.com/Ibrahim-3d)
-
+<div align="center">
+<img width="55%" src="https://streak-stats.demolab.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=1a1b27&stroke=00ff9c&ring=16a34a&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
 </div>
-
----
-
-## ⚡ Tech Stack
+</div>
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,typescript,js,react,nextjs,nodejs,blender,threejs,docker,git,vscode&theme=dark&perline=11" />
 </a>
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-<img width="55%" src="https://streak-stats.demolab.com/?user=Ibrahim-3d&theme=dark&background=0d1117&border=1a1b27&stroke=00ff9c&ring=16a34a&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
 </div>
 
 ---
