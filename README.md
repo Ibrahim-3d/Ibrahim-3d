@@ -63,6 +63,37 @@
 </p>
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Ibrahim-3d/PowerTrader-AI-Binance-Version">
+  <img width="100%" src="assets/card-powertrader.svg" alt="PowerTrader AI Binance Version"/>
+</a>
+<p>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/PowerTrader-AI-Binance-Version?style=flat-square&color=16a34a&labelColor=0d1117&logo=github&logoColor=white&label=stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/PowerTrader-AI-Binance-Version?style=flat-square&color=00ff9c&labelColor=0d1117&logo=github&logoColor=white&label=forks"/>
+</p>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Ibrahim-3d/Algorithmic-Zoning-Architect-Dist">
+  <img width="100%" src="assets/card-zoning.svg" alt="Algorithmic Zoning Architect Dist"/>
+</a>
+<p>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/Algorithmic-Zoning-Architect-Dist?style=flat-square&color=16a34a&labelColor=0d1117&logo=github&logoColor=white&label=stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/Algorithmic-Zoning-Architect-Dist?style=flat-square&color=00ff9c&labelColor=0d1117&logo=github&logoColor=white&label=forks"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<a href="https://github.com/Ibrahim-3d/prospector">
+  <img width="50%" src="assets/card-prospector.svg" alt="Prospector"/>
+</a>
+<p>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/prospector?style=flat-square&color=16a34a&labelColor=0d1117&logo=github&logoColor=white&label=stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/prospector?style=flat-square&color=00ff9c&labelColor=0d1117&logo=github&logoColor=white&label=forks"/>
+</p>
+</td>
+</tr>
 </table>
 
 </div>
