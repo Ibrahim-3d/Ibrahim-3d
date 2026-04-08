@@ -45,12 +45,12 @@
 </tr>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/Ibrahim-3d/ProposalForge">
-  <img width="100%" src="assets/card-proposalforge.svg" alt="ProposalForge"/>
+<a href="https://github.com/Ibrahim-3d/Art-Meuseum-Classical-Era-R3F-App">
+  <img width="100%" src="assets/card-art-museum.svg" alt="Art Museum Classical Era R3F App"/>
 </a>
 <p>
-  <img src="https://img.shields.io/github/stars/Ibrahim-3d/ProposalForge?style=flat-square&color=16a34a&labelColor=0d1117&logo=github&logoColor=white&label=stars"/>
-  <img src="https://img.shields.io/github/forks/Ibrahim-3d/ProposalForge?style=flat-square&color=00ff9c&labelColor=0d1117&logo=github&logoColor=white&label=forks"/>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/Art-Meuseum-Classical-Era-R3F-App?style=flat-square&color=16a34a&labelColor=0d1117&logo=github&logoColor=white&label=stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/Art-Meuseum-Classical-Era-R3F-App?style=flat-square&color=00ff9c&labelColor=0d1117&logo=github&logoColor=white&label=forks"/>
 </p>
 </td>
 <td align="center" width="50%">
