@@ -84,13 +84,22 @@
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="50%">
 <a href="https://github.com/Ibrahim-3d/prospector">
-  <img width="50%" src="assets/card-prospector.svg" alt="Prospector"/>
+  <img width="100%" src="assets/card-prospector.svg" alt="Prospector"/>
 </a>
 <p>
   <img src="https://img.shields.io/github/stars/Ibrahim-3d/prospector?style=flat-square&color=16a34a&labelColor=0d1117&logo=github&logoColor=white&label=stars"/>
   <img src="https://img.shields.io/github/forks/Ibrahim-3d/prospector?style=flat-square&color=00ff9c&labelColor=0d1117&logo=github&logoColor=white&label=forks"/>
+</p>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Ibrahim-3d/blender-dxf-exporter">
+  <img width="100%" src="assets/card-dxf-exporter.svg" alt="Blender DXF Exporter"/>
+</a>
+<p>
+  <img src="https://img.shields.io/github/stars/Ibrahim-3d/blender-dxf-exporter?style=flat-square&color=16a34a&labelColor=0d1117&logo=github&logoColor=white&label=stars"/>
+  <img src="https://img.shields.io/github/forks/Ibrahim-3d/blender-dxf-exporter?style=flat-square&color=00ff9c&labelColor=0d1117&logo=github&logoColor=white&label=forks"/>
 </p>
 </td>
 </tr>
